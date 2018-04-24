@@ -1,3 +1,3 @@
 # A-Z-Online-store
-initial repository 
+mimic repository 
 just here to make some unrequired changes!!making some changes 
